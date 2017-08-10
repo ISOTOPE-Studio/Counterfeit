@@ -1,0 +1,12 @@
+name: Counterfeit
+main: cc.isotopestudio.counterfeit.Counterfeit
+
+author: Mars
+description: 
+website: http://isotopestudio.cc
+version: 1.0.0
+#
+#commands:
+#  :
+#    description:
+#    usage: /<command>
